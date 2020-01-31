@@ -9,3 +9,10 @@ def print_n(n):
 if __name__ == '__main__':
     n = int(input())
     print_n(n)
+
+
+# using list comprehension
+
+# n = int(input())
+# nums = [x+1 for x in range(n)]
+# print(*nums, sep="")
