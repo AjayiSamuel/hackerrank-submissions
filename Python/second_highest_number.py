@@ -5,6 +5,7 @@ def runner_up_score(arr):
     new_max = max(numbers)
     return new_max
 
+
 if __name__ == '__main__':
     n = int(input())
     arr = map(int, input().split())
