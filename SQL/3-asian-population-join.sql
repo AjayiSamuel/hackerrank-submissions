@@ -6,8 +6,9 @@
 --
 --The CITY and COUNTRY tables are described as follows:
 
-Given two tables, City and Country whose descriptions are given below. Find the sum of population of all the Cities that lies in "Asia" continent.
+/* Given two tables, City and Country whose descriptions are given below. Find the sum of population of all the Cities that lies in "Asia" continent.
 City
+*/
 +-------------+----------+
 | Field       | Type     |
 +-------------+----------+
